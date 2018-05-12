@@ -1,0 +1,40 @@
+_repo: Letters-of-the-Right-Honourable-Lady-M-y-W-y-M-eWritten-during-Her-Travels-in-Europe-Asia-and__17520
+_version: 0.1.0
+alternative_title: Letters of the Right Honourable Lady Mary Wortley Montague
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montagu, Mary Wortley, Lady
+    aliases:
+    - Montagu, Mary Pierrepont Wortley, Lady
+    - Montague, Mary Wortley, Lady
+    - Montagute, Mary Wortlay, Lady
+    birthdate: 1689
+    deathdate: 1762
+    gutenberg_agent_id: '7433'
+    url: http://www.gutenberg.org/2009/agents/7433
+    wikipedia: http://en.wikipedia.org/wiki/Lady_Mary_Wortley_Montagu
+description: ''
+gutenberg_issued: '2006-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Foreign countries -- History -- 18th century'
+- !lcsh 'Montagu, Mary Wortley, Lady 1689-1762 -- Correspondence'
+- !lcsh 'Diplomats'' spouses -- Great Britain -- Correspondence'
+- !lcsh 'Turkey -- Description and travel -- Early works to 1800'
+- !lcsh 'Authors, English -- 18th century -- Correspondence'
+- !lcc 'DA'
+- !lcsh 'Voyages and travels -- Early works to 1800'
+title: 'Letters of the Right Honourable Lady M—y W—y M—e
+
+  Written during Her Travels in Europe, Asia and Africa to Persons of Distinction,
+  Men of Letters, &c. in Different Parts of Europe'
+url: http://www.gutenberg.org/ebooks/17520
